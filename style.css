@@ -1,0 +1,40 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+h1{
+    font-family: 'Allison', cursive;
+}
+body{
+    background-color: rgba(121, 64, 187, 0.705);
+}
+#center-tag{
+    border:ridge;
+    box-shadow: 3px 3px 3px grey;
+    background-color:rgba(122, 64, 187, 1) ;
+    color: white;
+}
+#text_box{
+    width:300px;
+}
+#camerA{
+    width: 360px;
+    height: 250px;
+    border-color: 1px solid greenyellow;
+
+}
